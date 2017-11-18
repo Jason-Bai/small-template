@@ -1,2 +1,2 @@
 # small-template
-通过命令行生成rest api最小模版
+Node.JS Rest API mvp template generator.
