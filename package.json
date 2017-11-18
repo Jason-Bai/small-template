@@ -1,7 +1,7 @@
 {
   "name": "small-template",
   "description": "Node.JS Rest API mvp template generator.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jason-Bai <602316022@qq.com>",
   "keywords": [],
   "repository": {
